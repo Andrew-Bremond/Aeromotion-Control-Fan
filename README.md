@@ -1,6 +1,6 @@
 Overall Project:
 
-I wmade a fan with different speeds from 0 to 5. The user can select any
+I made a fan with different speeds from 0 to 5. The user can select any
 speed of their choosing with 0 being off and 5 being the fastest. It has a
 shortcut for off and on.
 
